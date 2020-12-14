@@ -1,2 +1,2 @@
-# BOOTCAMP-AVANADE-DIO-INSTAGRAM-PAGE
-Projeto alteração da página do Instagram
+# Projeto Alterar página do Instagram
+Feitas alterações na cor do fundo, em algumas imagens e feita alteração de textos e adição de mais um elemento.
